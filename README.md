@@ -49,7 +49,7 @@
 
 # <h3>Tools</h3>
  <h4>
-     XAMPP
+     XAMPP <br>
      Visual Studio Code
  </h4>
 
