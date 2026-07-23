@@ -16,7 +16,8 @@
 <img width="1882" height="912" alt="Screenshot 2026-07-22 201313" src="https://github.com/user-attachments/assets/e6982e35-c8d4-41ec-934e-62a1bfc673fd" />
 
 # <h3>Train Search and Booking Model (booking.php)</h3>
-<img width="1877" height="905" alt="Screenshot 2026-07-22 201509" src="https://github.com/user-attachments/assets/4636d994-6225-4b26-b47b-75936104be2d" />
+<img width="1502" height="723" alt="Screenshot 2026-07-23 195710" src="https://github.com/user-attachments/assets/e2c63152-23db-48ca-bef3-d9e82555eaaa" />
+
 
 # <h3>Payment Gateway Model (payment_gate.php)</h3>
 <img width="1880" height="910" alt="Screenshot 2026-07-22 201800" src="https://github.com/user-attachments/assets/e9795371-16a6-4a8c-94bb-98d80e531dcd" />
