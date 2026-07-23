@@ -1,10 +1,10 @@
+# Railway Management System Php Project
 <div align="center">
-<h2 align="center"><h1>Railway management system php project</h1>
-
 RailStream is a full-stack Railway Management System built using PHP, MySQL, HTML, CSS, JavaScript, and Tailwind CSS. It enables users to search trains, book tickets, manage bookings, and generate e-tickets, while providing administrators with a powerful dashboard to manage trains, routes, users, and reports.
 </div>
 
-# <h3>HomePage Model (index.php)</h3>
+# Demo
+ <h3>HomePage Model (index.php)</h3>
 <img width="1885" height="911" alt="Screenshot 2026-07-22 193917" src="https://github.com/user-attachments/assets/a8036887-4af7-424b-9034-e77a3d208eef" />
 
 # <h3>User Registration Model (register.php/ register_logic.php)</h3>
@@ -25,7 +25,7 @@ RailStream is a full-stack Railway Management System built using PHP, MySQL, HTM
 # <h3>Booking processinig and Receipt Ticket (process_booking.php/ receipt.php/print_ticket.php)</h3>
 <img width="1872" height="905" alt="Screenshot 2026-07-22 201848" src="https://github.com/user-attachments/assets/04502e84-8618-4011-a445-fe805925b7fa" />
 
-<img width="1012" height="880" alt="Screenshot 2026-07-22 202020" src="https://github.com/user-attachments/assets/13a3b430-9a9c-475b-a4ce-7b16eade2370" />
+ <img width="1012" height="880" alt="Screenshot 2026-07-22 202020" src="https://github.com/user-attachments/assets/13a3b430-9a9c-475b-a4ce-7b16eade2370" />
 
 # <h3>Admin Dashboard Model (admin_dashboard.php)</h3>
 <img width="1882" height="905" alt="Screenshot 2026-07-22 202217" src="https://github.com/user-attachments/assets/692ce08a-a777-4785-ad11-4922cf5d1e02" />
