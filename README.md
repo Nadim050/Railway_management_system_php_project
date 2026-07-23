@@ -1,6 +1,4 @@
 # 🚆 Railway Management System Php Project
-
-## About
 #### RailStream is a full-stack Railway Management System built using PHP, MySQL, HTML, CSS, JavaScript, and Tailwind CSS. It enables users to search trains, book tickets, manage bookings, and generate e-tickets, while providing administrators with a powerful dashboard to manage trains, routes, users, and reports.
 
 
