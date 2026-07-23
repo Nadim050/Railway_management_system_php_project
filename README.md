@@ -48,8 +48,10 @@
 # <h4>MySQL(MariaDB 10.4)</h4>
 
 # <h3>Tools</h3>
- <h5>XAMPP</h5>
- <h4>Visual Studio Code</h4>
+ <h4>
+     XAMPP
+     Visual Studio Code
+ </h4>
 
 
 
