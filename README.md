@@ -1,4 +1,8 @@
-# Railway management system php project
+
+<div align="center">
+
+<h2 align="center">Railway management system php project</h2>
+</div>
 # <h3>HomePage Model (index.php)</h3>
 <img width="1885" height="911" alt="Screenshot 2026-07-22 193917" src="https://github.com/user-attachments/assets/a8036887-4af7-424b-9034-e77a3d208eef" />
 
