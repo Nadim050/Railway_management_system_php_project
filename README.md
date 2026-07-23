@@ -40,14 +40,16 @@
 <img width="1521" height="722" alt="Screenshot 2026-07-23 130136" src="https://github.com/user-attachments/assets/68330491-583b-45c4-a0bd-2eabce7fe2c6" />
 
 # Tools and Technologies
-# <h4>1.PHP</h4>
-# <h4>2.HTML5 and CSS3
-# <h4>3.TailwindCSS</h4>
-# <h4>4.Font Awesome</h4>
-# <h4>5.JavaScript</h4>
+# <h4>PHP</h4>
+# <h4>HTML5 and CSS3
+# <h4>TailwindCSS</h4>
+# <h4>Font Awesome</h4>
+# <h4>JavaScript</h4>
 # <h4>MySQL(MariaDB 10.4)</h4>
-# <h4>XAMPP</h4>
-# <h4>Visual Studio Code</h4>
+
+# <h3>Tools</h3>
+ <h4>XAMPP</h4>
+ <h4>Visual Studio Code</h4>
 
 
 
