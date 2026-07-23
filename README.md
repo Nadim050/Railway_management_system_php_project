@@ -1,5 +1,7 @@
 <div align="center">
-<h2 align="center"><h2>Railway management system php project</h2>
+<h2 align="center"><h1>Railway management system php project</h1>
+
+RailStream is a full-stack Railway Management System built using PHP, MySQL, HTML, CSS, JavaScript, and Tailwind CSS. It enables users to search trains, book tickets, manage bookings, and generate e-tickets, while providing administrators with a powerful dashboard to manage trains, routes, users, and reports.
 </div>
 
 # <h3>HomePage Model (index.php)</h3>
