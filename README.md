@@ -25,7 +25,7 @@
 # <h3>Admin Dashboard Model (admin_dashboard.php)</h3>
 <img width="1882" height="905" alt="Screenshot 2026-07-22 202217" src="https://github.com/user-attachments/assets/692ce08a-a777-4785-ad11-4922cf5d1e02" />
 
-# <h3> Add Trains, Manage Trains, Manage Routes and My Bookings Model (admin_manage_trains.php/ admin_add_train.php/ admin_routes.php/ admin_bookings.php)</h3>
+# <h3> Add Trains, Manage Trains, Manage Routes and All Bookings Model (admin_manage_trains.php/ admin_add_train.php/ admin_routes.php/ admin_bookings.php)</h3>
 <img width="1877" height="902" alt="Screenshot 2026-07-22 202317" src="https://github.com/user-attachments/assets/b49bca76-13b7-4b82-b573-825dcd573a55" />
 
 <img width="1882" height="905" alt="Screenshot 2026-07-22 202458" src="https://github.com/user-attachments/assets/4ca9ec01-5e34-41ab-a7f8-96bf8bd9330a" />
