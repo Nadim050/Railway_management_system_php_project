@@ -1,10 +1,11 @@
-# Railway Management System Php Project
-<div align="center">
-RailStream is a full-stack Railway Management System built using PHP, MySQL, HTML, CSS, JavaScript, and Tailwind CSS. It enables users to search trains, book tickets, manage bookings, and generate e-tickets, while providing administrators with a powerful dashboard to manage trains, routes, users, and reports.
-</div>
+# 🚆 Railway Management System Php Project
 
-# Demo
- <h3>HomePage Model (index.php)</h3>
+## About
+#### RailStream is a full-stack Railway Management System built using PHP, MySQL, HTML, CSS, JavaScript, and Tailwind CSS. It enables users to search trains, book tickets, manage bookings, and generate e-tickets, while providing administrators with a powerful dashboard to manage trains, routes, users, and reports.
+
+
+# 📸 Demo Screenshots
+# <h3>HomePage Model (index.php)</h3>
 <img width="1885" height="911" alt="Screenshot 2026-07-22 193917" src="https://github.com/user-attachments/assets/a8036887-4af7-424b-9034-e77a3d208eef" />
 
 # <h3>User Registration Model (register.php/ register_logic.php)</h3>
@@ -44,22 +45,29 @@ RailStream is a full-stack Railway Management System built using PHP, MySQL, HTM
 
 <img width="1521" height="722" alt="Screenshot 2026-07-23 130136" src="https://github.com/user-attachments/assets/68330491-583b-45c4-a0bd-2eabce7fe2c6" />
 
-# Tools and Technologies
-# <h4>PHP</h4>
-# <h4>HTML5 and CSS3
-# <h4>TailwindCSS</h4>
-# <h4>Font Awesome</h4>
-# <h4>JavaScript</h4>
-# <h4>MySQL(MariaDB 10.4)</h4>
 
-# <h3>Tools</h3>
- <h4>
-     XAMPP <br>
-     Visual Studio Code
- </h4>
+# 🛠️ Technologies Used
+
+## 1.Frontend :
+- ### <h3>HTML5</h3>
+- ### <h3>CSS3</h3>
+- ### <h3>JavaScript</h3>
+- ### <h3>Tailwind CSS</h3>
 
 
+## 2.Backend :
+- ### PHP
+  
 
+## 3.Database :
+- ### MySQL (MariaDB)
+  
 
+## 4.Tools :
+- ### XAMPP
+- ### Visual Studio Code
+  
 
+## 5.Icons :
+- ### Font Awesome
 
